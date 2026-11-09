@@ -30,4 +30,4 @@ You need [Node.js](https://nodejs.org/) installed on your computer.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/GridWatch.git
+   git clone https://github.com/Adijah6838/GridWatch.git
